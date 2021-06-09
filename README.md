@@ -1,2 +1,2 @@
 # Webcam-Trackpad
-Trackpad functions using hand landmark detection using OpenCV and Mediapipe
+Gesture based trackpad functions using hand landmark detection using OpenCV and Mediapipe
